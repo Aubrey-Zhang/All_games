@@ -1,5 +1,5 @@
 # All_games
-In this folder are the games I've written
+This folder includes the games and some applications I've written.
 
 1.Surakarta.exe: It's a exe file of Surakarta which is a little-known Indonesian strategy board game for two players. Welcome download and play it. You can choose to play against a computer or play it with a friend.
 
