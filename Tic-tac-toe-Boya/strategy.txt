@@ -1,0 +1,5 @@
+When you’re the first one up, there is a simple strategy on how to win tic tac toe: put your ‘X’ in any corner. This move will pretty much send you to the winner’s circle every time, so long as your opponent doesn’t put their first ‘O’ in the center box. This can make it harder to win, but it can happen.
+
+If you’re the second to go, it may be harder to win the game. If your opponent takes the center space, counteract that by placing your letter in a corner. If your opponent takes a corner space, take the middle space. This will force a draw in both cases. Winning is almost impossible unless a major mistake is made by your opponent.
+
+But, if your opponent starts on an edge that is not a corner, you can win. There is an exact science on how to win tic tac toe if this is the case: Put your first letter in the center. You can only claim victory if your opponent puts their letter on the other edge. If not, you will have to settle for a draw.
