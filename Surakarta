@@ -1,0 +1,10 @@
+For both sides of the game, each is seeking a move that is beneficial to them. This reciprocating alternate is the min-max search. The final estimate of the current situation is
+finally obtained.As the depth of search increases, the situation that needs to be searched increases exponentially. Reasonable use of the minimum-maximum search can be evolved into Alpha-Beta pruning searchSo, in a limited
+amount of time, the number of layers in a computer search is very shallow.
+
+And to find a better way for the computer,the number of layers searched should be as deep as possible.
+Therefore, in the search process, you should stop expanding the child nodes that are no longer necessary to expand, which is equivalent to cutting off some of 
+the branches on the gametree. Based on this, the search algorithm such as PVS and MTD search can be used for pruning. For different types of chess, the difference 
+in pruning algorithms may also result in different chess forces in the computer game system. 
+This requires the designer to be familiar with the target chess and different pruning algorithms, and adopt the corresponding algorithm according to the rules of the target chess.
+Therefore, it is difficult to make a general search optimization algorithm that adapts to various types quickly and well on this basis.
